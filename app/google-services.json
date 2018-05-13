@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "232714264684",
+    "firebase_url": "https://authwithfirebase-d92d2.firebaseio.com",
+    "project_id": "authwithfirebase-d92d2",
+    "storage_bucket": "authwithfirebase-d92d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232714264684:android:aacc907fcc3db2bb",
+        "android_client_info": {
+          "package_name": "com.example.fahmifan.authwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232714264684-ta5pat8438oool4delg323tosgpkn5ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahmifan.authwithfirebase",
+            "certificate_hash": "b9f85c79ce2bc9685c8c8e7ce731b515d2e73a5a"
+          }
+        },
+        {
+          "client_id": "232714264684-49rnk335vtkcpb1jmncuvm20ga6oifmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3StquySmfE1mR-yFEJVN81bCf6kRBg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232714264684-49rnk335vtkcpb1jmncuvm20ga6oifmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
